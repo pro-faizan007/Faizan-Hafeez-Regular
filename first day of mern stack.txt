@@ -1,0 +1,21 @@
+ECMAScript
+ECMAScript5 & ECMAScript6 difference
+terminology of let ,war ,const
+primitive and non primitive type in javascript
+let ,var ,const difference hoist & scope
+
+2nd day task======>
+how to check arrays
+how to check the variable is object or not
+
+coding task
+alpha string lower and uppercases we need to count the uppercases
+array is given each index has single element filter them in diffrent arrays
+array is given uper and small alpha we need to return an object 
+research task 
+pillors of oop
+inherantance accord to C++
+polymorphisms
+
+JavaScript BASICS
+Java Script datatypes, variables, arrays. Creating loops and writing if-else decision making statements. Defining and calling JavaScript functions on events. Manipulating DOM elements
