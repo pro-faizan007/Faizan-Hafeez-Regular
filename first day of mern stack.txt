@@ -8,14 +8,26 @@ let ,var ,const difference hoist & scope
 how to check arrays
 how to check the variable is object or not
 
-coding task
+
+coding task==>
+
 alpha string lower and uppercases we need to count the uppercases
 array is given each index has single element filter them in diffrent arrays
 array is given uper and small alpha we need to return an object 
 research task 
-pillors of oop
+pillors of OOP
 inherantance accord to C++
 polymorphisms
 
+3rd Day task==>
+
+paradrom checking in javascript
+pendulam string checking
+self invoke functions adv/disadv
+string is given find everything is uppercase or not if the full value is uppercase return trucey value other wise falsy value  
+anagram checking
+revisiting yesterdays OOP work
+
+
 JavaScript BASICS
-Java Script datatypes, variables, arrays. Creating loops and writing if-else decision making statements. Defining and calling JavaScript functions on events. Manipulating DOM elements
+Java Script datatypes, variables, arrays. Creating lOOPs and writing if-else decision making statements. Defining and calling JavaScript functions on events. Manipulating DOM elements

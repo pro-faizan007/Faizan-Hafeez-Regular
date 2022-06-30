@@ -1,22 +1,24 @@
-// let n = 5;
-// let string = "";
 
-// for (let i = 0; i < n; i++) {
-  
-//   for (let k = 0; k < n - i; k++) {
-//     string += "*";
-//   }
+// uniqueCount=['a' ,'b', 'c', 'd', 'd', 'e', 'a', 'c' ,'c', 'f', 'g', 'h' ];
+// var map= new Object();
+// for (var i=0; i<uniqueCount.length; i++){
+// if(
+//     map[uniqueCount[i]] !=null){
+//         map[uniqueCount[i]]+=1;
+//     }
+//     else{
+//     map[uniqueCount[i]]=1;
+//     }
 // }
-// console.log(string);
+// console.log(map);
 
-// var greetings ="Hello";
-// function letGreet(){
-//   greetings="caio";
-// var greetings;
-// }
-// letGreet();
-// console.log(greetings);
+// count upper case
 
+const str="i am Faizan Hafeez";
 
-
-
+for(var i=0, len= str.length, count=0 ; i<length; ++i)
+{
+    if(str[i]>='A' && str[i]<='Z')
+    ++count;
+}
+console.log(count);
