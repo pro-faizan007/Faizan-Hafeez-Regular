@@ -35,9 +35,9 @@
 
 
 
-const pendulum = (str) => {
+const isPendulum = (str) => {
     let count = 0;
-    let obj = { degree: 0, pen: false };
+    const obj =  {degree:2 , pen: false }
  if (str.length % 2 === 0){
     for (let i =0; i < str.length / 2; i++){
         if (str[i] != str[str.length - 1 - i]) {
@@ -64,4 +64,4 @@ const pendulum = (str) => {
     }
     return obj;
 }
-    console.log(pendulum('HHHlloHHH'))
+    console.log(isPendulum('HHHlloHHH'))
