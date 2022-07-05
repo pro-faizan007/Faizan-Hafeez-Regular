@@ -29,5 +29,6 @@ anagram checking
 revisiting yesterdays OOP work
 
 
+
 JavaScript BASICS
 Java Script datatypes, variables, arrays. Creating lOOPs and writing if-else decision making statements. Defining and calling JavaScript functions on events. Manipulating DOM elements
