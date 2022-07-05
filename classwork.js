@@ -82,7 +82,7 @@
 // console.log(sortedArray)
 
 
-const myArray=[
+const myArray1=[
     {
         id:1,
         name:'ali',
@@ -112,11 +112,11 @@ const myArray=[
     }
 ]
 
-myArray.sort((currentValue,nextValue)=>{
+myArray1.sort((currentValue,nextValue)=>{
  return currentValue.salary - nextValue.salary
      
 })
-console.log(myArray)
+console.log(myArray1)
 
 
 
