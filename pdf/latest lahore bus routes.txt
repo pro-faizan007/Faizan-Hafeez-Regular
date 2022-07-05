@@ -1,0 +1,170 @@
+Speedo Bus Routes in Lahore
+There are around 91 speedo routes in Lahore which will be discussed further in greater detail.
+
+Route 1
+Route alignment: Railway Station to Bhatti Chowk via Ek Moriya, Nawaz Sharif Hospital, Kashmiri Gate, Lari Adda, Azadi Chowk, Texali Chowk.
+
+Bus type: Standard Bus
+
+Route 2
+Route alignment: Samanabad Morr to Bhatti Chowk via Corporation Chowk, Taj Company, Sanda, Double Sarkan, Moon Market, Ganda Nala
+
+Bus type: Standard Bus
+
+Route 3
+Route alignment: Railway Station to Shahdara Lari Adda via Ek Moriya, Nawaz Sharif Hospital, Kashmiri Gate, Lari Adda, Azadi Chowk, Timber Market, METRO, Niazi Chowk, Shahdara Metro Station
+
+Bus type: Standard Bus
+
+Route 4
+Route alignment: R.A Bazar to Chungi Amar Sidhu via Nadeem Chowk, Defence Morr, Shareef Market, Walton, Qainchi, Ghazi Chowk
+
+Bus type: Standard Bus
+
+Route 5
+Route alignment: Shadbagh Underpass to Bhatti Chowk via Rajput Park, Madina Chowk, Lohay Wali Pulley, Badami Bagh, Lari Adda Gol Chakar, Azadi Chowk, Texali Chowk.
+
+Bus type: Mini Bus
+
+Route 6
+Route alignment: Babu Sabu to Raj Garh Chowk via Niazi Adda, City Bus Stand, Chowk Yateem Khana, Bhala Stop, Samanabad Morr, Chauburji, Riwaz Garden, M.A.O College, Firdous Cinema
+
+Bus type: Mini Bus
+
+Route 7
+Route alignment: Bagrian to Chungi Amar Sidhu via Depot Chowk, Minhaj University, Hamdard Chowk, Rehmat Eye Hospital, Pindi Stop, Peco Morr, Kot Lakhpat Railway Station, Phatak Mandi, Qainchi, Ghazi Chowk
+
+Bus type: Standard Bus
+
+Route 8
+Route alignment: Doctor Hospital to Canal via Wafaqi Colony, IBA Stop, Hailey College, Campus Pull, Barkat Market, Kalma Chowk, Qaddafi Stadium
+
+Bus type: Standard Bus
+
+Route 9
+Bus alignment: Railway Station to Sham Nagar via Haji Camp, Shimla Pahari, Lahore Zoo, Chairing Cross, Ganga Ram Hospital, Qartaba Chowk, Chauburji
+
+Bus type: Mini Bus 
+
+Route 10
+Bus alignment: Multan Chungi to Qartaba Chowk via Mustafa Town, Karim Block Market, PU Examination Center, Bhekewal Morr, Wahdat Colony, Naqsha Stop, Canal, Ichra, Shama
+
+Bus type: Standard Bus
+
+Route 11
+Bus alignment: Babu Sabu to Main Market Gulberg via Niazi Adda, City Bus Stand, Chowk Yateem Khana, Scheme Morr, Flat Stop, Dubai Chowk, Bhekewal Morr, Sheikh Zaid Hospital, Campus Pull, Barkat Market, Kalma Chowk, Liberty Chowk, Hafeez Center, Mini Market
+
+Bus type: Standard Bus
+
+Route 12
+Route alignment: R.A Bazar to Civil Secretariat via PAF Market, Girja Chowk, Afshan Chowk, Fortress Stadium, Gymkhana, Aitchison College, PC Hotel, Lahore Zoo, Chairing Cross, GPO, Anarkali
+
+Bus type: Standard Bus
+
+Route 13
+Route alignment: Bagrian to Kalma Chowk via Ghazi Chowk, UMT Stop, Khokhar Chowk, Akbar Chowk,Pindi Stop, Peco Morr, Phatak Mandi, Ittefaq Hospital, Model Town
+
+Bus type: Standard Bus
+
+Route 14
+Route alignment: R.A Bazar to Chungi Amar Sidhu via Fauji Foundation, Ali View Garden, Bhatta Chowk, DHA Nursery, LESCO, Chota Ishara Stop, Naka Stop, Ghazi Chowk
+
+Bus type: Standard Bus
+
+Route 15
+Route alignment: Qartba Chowk to Babu Sabu via Hakeem M. Ajmal Khan Road, Gulshan Ravi Road, Kacha Ferozepur Road
+
+Bus type:  Mini Bus 
+
+Route 16
+Route alignment: Railway Station to Bhatti Chowk Via Circular Road, Ek Moriya 
+
+Bus type: Mini Bus 
+
+Route 17
+Canal to Railway Station Via Main Boulevard Shadman, Davis Road, Shimla Pahari, Haji Camp Bus type: Standard
+
+Route 18
+Route alignment: Bhatti Chowk to Shimla Pahari via Circular Road, Nisabt Road, Abbot Road
+
+Bus type: Mini Bus 
+
+Route 19
+Ruote alignment: Main Market to Bhatti Chowk via Jail Road, Lyton Road, Crust Road, Lower Mall road
+
+Bus type: Mini Bus 
+
+Route 20
+Route alignment: Jain Mandar to Chowk Yateem Khana via Al-Mumtaz Road, Poonch Road, Lake Road. 
+
+Bus type: Mini Bus 
+
+Route 21
+Route alignment: Depot Chowk to Thokar Niaz Baig via Madar-e-Millat Road, Ali Road, Baig Road, Canal Bank Road
+
+Bus type: Standard Bus
+
+Route 22
+Route alignment: Depot Chowk to Thokar Niaz Baig via Madar-e-Millat Road, Sutlej Avenue, Shahrah Nazaria-e- Pakistan Avenue
+
+Bus type: Standard Bus
+
+Route 23
+Route alignment: Valencia to Thokar Niaz Baig via Valencia Main Boulevard, Khayabane-Jinnah, Raiwind Road 
+
+Bus type: Mini Bus
+
+Route 24
+Route alignment: Multan Chungi to Ghazi Chowk via College Road, Maulana Shaukat Ali Road, Wahdat Road
+
+Bus type: Standard Bus
+
+Route 25
+Route alignment: R.A Bazar to Railway Station Via Lahore-Bedian Road, Allama Iqbal Road
+
+Bus type: Standard Bus
+
+Route 26
+Route alignment: R.A Bazar to Daroghawala via G.T Road, Shalimar Link Road, Tufail Road, Sarfraz Rafique Road
+
+Bus type: Standard Bus
+
+Route 27
+Route alignment: BataPur to Daroghawala via GT Road
+
+Bus type:  Mini Bus 
+
+Route 28
+Route alignment: Quaid e Azam Interchange to Airport via Harbanspura Road, Zarar Shaeed Road 
+
+Bus type: Mini Bus 
+
+Route 29
+Route alignment: Niazi Interchange to Salamat Pura Via lahore Ring Road, Band Road, Sue Wala Road
+
+Bus type: Standard Bus
+
+Route 30
+Route alignment: Daroghwala to Airport via G.T Road, Shalimar Link Road.
+
+Bus type: Standard Bus
+
+Route 31
+Route alignment: Daroghawala to Lari Adda via Chamra Mandi, Cooper Store, UET, Shalimar Chowk
+
+Bus route: Mini Bus
+
+Route 32
+Route alignment: Shimla Pahari to Ek Moriya via Durand Road, Queen Mary Road, Garhi Shahu Bridge, Cooper Store, Chamra Mandi, Ek Moriya
+
+Bus type: Mini Bus
+
+Route 33
+Route alignment: Cooper Store to Mughalpura Via Workshop Rd, Mughalpura Road
+
+Bus type: Mini Bus 
+
+Route 34
+Route alignment: Singhpura to Mughalpura Via Wheatman Road Griffin Road 
+
+Bus type: Mini Bus
